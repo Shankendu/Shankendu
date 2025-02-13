@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on To-Do App🌱 I’m currently learning Java<br>💬 Ask me about React, Tailwind and Piano<br>⚡ Fun fact I sing well
+🔭 I’m currently working on To-Do App🌱<br> I’m currently learning Java<br>💬 Ask me about React, Tailwind and Piano<br>⚡ Fun fact I sing well
 
 
 ## 🌐 Socials:
